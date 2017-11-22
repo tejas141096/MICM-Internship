@@ -1,0 +1,48 @@
+//reference - 
+- online guide 
+	- https://www.w3schools.com/
+	- https://www.tutorialspoint.com/html/
+	- https://www.tutorialspoint.com/css/
+
+- about the web - http://www.teaching-materials.org/htmlcss/lesson1/slides.html#slide1
+- html part 1 - http://www.teaching-materials.org/htmlcss/lesson2/slides.html#slide1
+- html part 2 - http://www.teaching-materials.org/htmlcss/lesson3/slides.html#slide1
+- css part 1 - http://www.teaching-materials.org/htmlcss/lesson4/slides.html#slide43
+- css part 2 - http://www.teaching-materials.org/htmlcss/lesson5/slides.html#slide43
+
+//dummy text generator - http://www.dummytextgenerator.com/#jump
+
+//some cool things
+
+nice editor for web - http://brackets.io/
+
+automatic form buider - http://bootsnipp.com/forms
+other snippets - http://bootsnipp.com/
+drag and drop builder - http://www.layoutit.com/build
+						http://scripteden.com/builder/bootstrap/
+
+Snippets - https://bootswatch.com/
+
+jsfiddle - https://jsfiddle.net/ (Especially for StackOverflow)
+
+hover effects - http://ianlunn.github.io/Hover/
+				http://designshack.net/tutorialexamples/imagehovers/index.html
+				http://tympanus.net/Tutorials/CircleHoverEffects/
+				http://tympanus.net/Tutorials/AnimatedTextIconMenu/example3.html
+				http://www.html5templatesdreamweaver.com/hover-effects.html
+
+MouseMove Effects - http://open.adaptedstudio.com/html5/many-lines/index.html
+					http://mrdoob.com/projects/chromeexperiments/ball-pool/
+
+LightBox - http://ashleydw.github.io/lightbox/
+
+Premium Theme - webhttrack 
+
+Alternatives to Bootstrap 
+	- Foundation - http://foundation.zurb.com/
+	- Semantic UI - http://semantic-ui.com/
+	- Purecss - http://purecss.io/
+	- UIKit - http://getuikit.com/
+
+WOW animation library	
+	- https://codepen.io/TimLamber/pen/dLxbF
