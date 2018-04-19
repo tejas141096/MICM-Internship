@@ -1,0 +1,107 @@
+.navbar-default{
+  background-color: #282828 ;
+}
+.wrapper {
+  width: 100%; /*full screen width */
+  height: 100%;
+  overflow:hidden;
+}
+#grad {
+    background: black; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(black,  #DAA520); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black,  #DAA520); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black,  #DAA520); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black,  #DAA520); /* Standard syntax */
+}
+.shelf {
+  position: absolute; /* Forces the prize position into the container start */
+  z-index: 1; /* Places the prize behind the panels, which are z-index 2 */
+  width: 100%;
+  height: 100%;
+}
+.panel {
+  width: 50%; /* Each panel takes up half the container */
+  height: 100vh; /* Used for demo purposes */
+  float: left; /* Makes sure panels are side-by-side */
+  position: relative; /* Needed to define the z-index */
+  z-index: 4; /* Places the panels in front of the prize */
+}
+.door
+{
+  height: 100%;
+  width: 100%;
+}
+#things1{
+  height:200px;
+  margin-top: 30px;
+  margin-left: 60px;
+  z-index: 2;
+}
+#things2{
+  height:250px;
+  margin-top: 20px;
+  margin-left: 60px;
+  z-index: 2;
+}
+#things3{
+  height:200px;
+  margin-top: 30px;
+  margin-left: 60px;
+  z-index: 2;
+}
+#things4{
+  height:250px;
+  margin-top: 30px;
+  margin-left: 60px;
+  z-index: 2;
+}
+#things5{
+  height:215px;
+  margin-top: 0px;
+  margin-left: 48px;
+  z-index: 2;
+}
+#things6{
+  height:235px;
+  margin-top: 0px;
+  margin-left: 48px;
+  z-index: 2;
+}
+#things7{
+  height:190px;
+  margin-top: 40px;
+  margin-left: 48px;
+  z-index: 2;
+}
+#things8{
+  width: 300px;
+  height:150px;
+  margin-top: 70px;
+  margin-left: 48px;
+  z-index: 2;
+}
+#things8a{
+  width: 255px;
+  height:235px;
+  margin-top:0px;
+  margin-left: 240px;
+  z-index: 1;
+}
+#things9{
+  height:200px;
+  margin-top: 20px;
+  margin-left: 48px;
+  z-index: 2;
+}
+.top{
+  width: 80%;
+  margin: 20px;
+  position:absolute;
+  top:20px;
+  left:0; 
+  z-index:20; 
+}
+.box{
+  height:248px;
+  width: 100%;
+}
